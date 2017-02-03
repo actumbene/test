@@ -1,0 +1,10 @@
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\GetToken.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\GetToken.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\lib\TokenHelper.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\lib\TokenHelper.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\obj\Debug\TokenHelper.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\GetToken\GetToken\obj\Debug\TokenHelper.pdb

@@ -1,0 +1,12 @@
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\ConsoleTestToken.exe.config
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\ConsoleTestToken.exe
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\ConsoleTestToken.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\TokenHelper.dll
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\bin\Debug\TokenHelper.pdb
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\obj\Debug\ConsoleTestToken.csprojResolveAssemblyReference.cache
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\obj\Debug\ConsoleTestToken.exe
+C:\Users\jon\OneDrive\Development\NordpoolGroup\Source\ConsoleTestToken\obj\Debug\ConsoleTestToken.pdb
